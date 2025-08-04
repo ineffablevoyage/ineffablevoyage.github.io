@@ -25,24 +25,59 @@ body {
   width: auto; /* 100%; */
 }
 
-.zine_title {
-    text-align: center;
-    /* font-size: 2em; */
-    color: Black;
-    margin-top: 20px;
+.header {
+  text-align: center;
+  /* font-size: 2em; */
+  color: Black;
+  margin-top: 20px;
 }
 
-.zine_title h1 {
-    font-size: 5em;
-    font-weight: bold;
+.header h1 {
+  font-size: 5em;
+  font-weight: bold;
 
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  line-height: 1.2;
 
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-    line-height: 1.2;
+  border: yellow 2px solid;
 
-    border: yellow 2px solid;
+}
 
+.main_content {
+  font-family: Arial;
+  /* display: inline-block; */
+  display: flex;
+  display: grid;
+  grid-template-columns: 500px auto;
+  grid-gap: 20px;
+}
+
+.menu {
+  flex: 1;
+  justify-content: center;
+  /* margin-top: 20px; */
+  width: 20%;
+  border: red 1px solid;
+}
+
+.zine_content {
+  flex: auto;
+  /* width: 80%; */
+  /* max-width: 800px; */
+  border: red 1px solid;
+}
+
+.footer {
+  background: linear-gradient(white, grey);
+  height: 50px;
+  margin-top: auto;
+  bottom: 0;
+  /* margin-top: 20px; */
+  text-align: center;
+  font-size: 0.8em;
+  color: #555;
+  /* border: red 1px solid; */
 }
