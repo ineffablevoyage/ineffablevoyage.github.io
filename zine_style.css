@@ -10,8 +10,8 @@ body {
   background-repeat: no-repeat;
   /* background-attachment: fixed; */
 
-  /* margin: 0;
-  padding: 0; */
+  margin: 0;
+  /* padding: 0; */
 }
 
 .main_container {
@@ -26,13 +26,28 @@ body {
 }
 
 .header {
+  position: sticky;
+  top: 0;
+  z-index: 999;
+
+  text-align: center;
+  /* font-size: 2em; */
+  color: #f1f1f1;
+  padding: 10px 16px;
+  background: #77b5fe;
+  border: red 1px solid;
+}
+
+
+
+.title {
   text-align: center;
   /* font-size: 2em; */
   color: Black;
   margin-top: 20px;
 }
 
-.header h1 {
+.title h1 {
   font-size: 5em;
   font-weight: bold;
 
