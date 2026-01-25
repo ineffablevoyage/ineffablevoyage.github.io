@@ -2,32 +2,22 @@
 
 A website for the ineffable voyage zines
 
-(Work in progress)
+This Website use the svelte framework 
 
-
-# sv
-
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
-
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```sh
-# create a new project
-npx sv create my-app
-```
-
-To recreate this project with the same configuration:
-
-```sh
-# recreate this project
-npx sv create --template minimal --types ts --add prettier --install npm .
-```
 
 ## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Start by installing the dependencies
+```sh
+npm install
+```
+
+Don't forget to also download the static adaptater if it's not already done for the github pages build
+```sh
+npm i -D @sveltejs/adapter-static
+```
+
+Once that's done, start a development server:
 
 ```sh
 npm run dev
@@ -38,12 +28,8 @@ npm run dev -- --open
 
 ## Building
 
-To create a production version of your app:
+This step is not needed as the website is automatically deployed on github pages when changes are push to the main branches, but in case you want a local build app, it's how to do it.
 
 ```sh
 npm run build
 ```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
