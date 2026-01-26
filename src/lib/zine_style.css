@@ -38,7 +38,7 @@
 
 
 @plugin "daisyui/theme" {
-  name: "totalprime";
+  name: "zine_dark";
   default: false;
   prefersdark: true;
   color-scheme: "dark";
