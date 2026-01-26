@@ -5,9 +5,19 @@
 	let { children } = $props();
 </script>
 
-<nav class="header" id="header_menu">
-        <h2>Menu</h2>
+<nav class="navbar bg-base-300 shadow-sm" id="header_menu">
+	<div class="navbar-start">
+	</div>
+	<div class="navbar-center">
+		<a class="btn btn-ghost text-xl" href="/">Menu</a>
+		<a class="btn btn-ghost text-xl" href="/ineffableVoyageZine">Ineffable Voyage zine</a>
+		<a class="btn btn-ghost text-xl" href="/ineffableCuisineZine">Ineffable Cuisine zine</a>
+		<a class="btn btn-ghost text-xl" href="/about">About</a>
+	</div>
+	<div class="navbar-end">
+	</div>
 </nav>
+
 
 <svelte:head>
 	<link rel="icon" href={favicon} />

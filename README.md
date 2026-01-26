@@ -17,6 +17,11 @@ Don't forget to also download the static adaptater if it's not already done for 
 npm i -D @sveltejs/adapter-static
 ```
 
+And the daisyUI plugin :
+```sh
+npm install tailwindcss@latest @tailwindcss/vite@latest daisyui@latest
+```
+
 Once that's done, start a development server:
 
 ```sh

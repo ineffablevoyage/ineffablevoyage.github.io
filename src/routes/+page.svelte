@@ -4,7 +4,7 @@
 
 <div class="main_container">
     <div class="title">
-        <h1>Ineffable Voyage Fanzine</h1>
+        <h1>[Main page]</h1>
     </div>
     <div class="main_content">
         <!-- <div class="zine_content">
