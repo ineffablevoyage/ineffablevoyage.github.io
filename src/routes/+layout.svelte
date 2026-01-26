@@ -1,6 +1,9 @@
 <script lang="ts">
+	import { resolve } from '$app/paths';
 	import favicon from '$lib/assets/favicon.svg';
 	import "$lib/zine_style.css";
+
+	// const resolved = resolve("/");
 
 	let { children } = $props();
 </script>
@@ -9,10 +12,10 @@
 	<div class="navbar-start">
 	</div>
 	<div class="navbar-center">
-		<a class="btn btn-ghost text-xl" href="/">Menu</a>
-		<a class="btn btn-ghost text-xl" href="/ineffableVoyageZine">Ineffable Voyage zine</a>
-		<a class="btn btn-ghost text-xl" href="/ineffableCuisineZine">Ineffable Cuisine zine</a>
-		<a class="btn btn-ghost text-xl" href="/about">About</a>
+		<a class="btn btn-ghost text-xl" href="{resolve("/")}">Menu</a>
+		<a class="btn btn-ghost text-xl" href="{resolve("/ineffableVoyageZine")}">Ineffable Voyage zine</a>
+		<a class="btn btn-ghost text-xl" href="{resolve("/ineffableCuisineZine")}">Ineffable Cuisine zine</a>
+		<a class="btn btn-ghost text-xl" href="{resolve("/about")}">About</a>
 	</div>
 	<div class="navbar-end">
 	</div>

@@ -2,7 +2,7 @@
 @plugin "daisyui";
 
 @plugin "daisyui/theme" {
-  name: "zine";
+  name: "zine_light";
   default: true;
   prefersdark: false;
   color-scheme: "light";
@@ -40,7 +40,7 @@
 @plugin "daisyui/theme" {
   name: "zine_dark";
   default: false;
-  prefersdark: true;
+  prefersdark: false;
   color-scheme: "dark";
   --color-base-100: oklch(29% 0.066 243.157);
   --color-base-200: oklch(39% 0.09 240.876);
