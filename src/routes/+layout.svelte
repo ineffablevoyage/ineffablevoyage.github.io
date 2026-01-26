@@ -5,7 +5,7 @@
 	let { children } = $props();
 </script>
 
-<nav class="navbar bg-base-100 shadow-sm" id="header_menu">
+<nav class="navbar bg-base-300 shadow-sm" id="header_menu">
 	<div class="navbar-start">
 	</div>
 	<div class="navbar-center">
@@ -17,7 +17,6 @@
 	<div class="navbar-end">
 	</div>
 </nav>
-
 
 
 <svelte:head>
