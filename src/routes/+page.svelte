@@ -23,17 +23,32 @@
         <div class="max-w-xl">
             <div class="card card-side bg-base-100 shadow-sm">
                 <div class="card-body">
-                    <h2 class="card-title">Ineffable Cuisine soon</h2>
+                    <h2 class="card-title">Ineffable Cuisine zine</h2>
                     <p>Comming soon.</p>
                     <div class="card-actions justify-end">
                     <button class="btn btn-primary">Preorder soon</button>
                     </div>
                 </div>
-                <figure>
+                <!-- <figure>
                     <img
                     src="{zine_image}"
                     alt="fanzine cover" />
-                </figure>
+                </figure> -->
+                <div class="hover-3d">
+                    <!-- content -->
+                    <figure class="w-100">
+                        <img src="{zine_image}" alt="fanzine cover" />
+                    </figure>
+                    <!-- 8 empty divs needed for the 3D effect -->
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                </div>
             </div>
             <!-- <h1 class="mb-5 text-5xl font-bold">Ineffable Cuisine</h1>
             <p class="mb-5">
