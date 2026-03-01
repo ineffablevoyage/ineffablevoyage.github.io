@@ -11,8 +11,8 @@
 <script lang="ts">
 	import { resolve } from '$app/paths';
 
-	import background from '$lib/assets/images/ballon_goodomensfanzine_field.jpg';
-    import zine_image from '$lib/assets/images/temp_cuisine_title.png';
+	import background from '$lib/assets/images_vrac/ballon_goodomensfanzine_field.jpg';
+    import zine_image from '$lib/assets/images_vrac/temp_cuisine_title.png';
 
 </script>
 
