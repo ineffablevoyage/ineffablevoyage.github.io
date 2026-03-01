@@ -4,7 +4,21 @@
 
 	import background from '$lib/assets/images_vrac/ballon_goodomensfanzine_field.jpg';
     import zine_image from '$lib/assets/images_vrac/temp_cuisine_title.png';
-    import angellilou_avatar from '$lib/assets/voyage_zine/avatar/Angellilou.jpg';
+
+    import agrumetendre_avatar from '$lib/assets/voyage_zine/avatar/agrume_tendre.jpg';
+    import angellilou_avatar from '$lib/assets/voyage_zine/avatar/angellilou.jpg';
+    import bucky_avatar from '$lib/assets/voyage_zine/avatar/bucky.png';
+    import chouly_avatar from '$lib/assets/voyage_zine/avatar/chouly_temp.png';
+    import cybi_avatar from '$lib/assets/voyage_zine/avatar/cybi.png';
+    import elnora_avatar from '$lib/assets/voyage_zine/avatar/elnora.jpg';
+    import emi_avatar from '$lib/assets/voyage_zine/avatar/emi.jpg';
+    import enelica_avatar from '$lib/assets/voyage_zine/avatar/enelica.png';
+    import kay_avatar from '$lib/assets/voyage_zine/avatar/kay.png';
+    import kimy_avatar from '$lib/assets/voyage_zine/avatar/kimy.png';
+    import lambre_avatar from '$lib/assets/voyage_zine/avatar/lambre.png';
+    import piki_avatar from '$lib/assets/voyage_zine/avatar/piki.jpg';
+    import tsar_avatar from '$lib/assets/voyage_zine/avatar/tsar_2024_rond.png';
+    import zevampirex_avatar from '$lib/assets/voyage_zine/avatar/zevampirex.jpeg';
 
 </script>
 
