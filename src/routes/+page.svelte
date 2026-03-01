@@ -9,8 +9,10 @@
 </div> -->
 
 <script lang="ts">
+	import { resolve } from '$app/paths';
+
 	import background from '$lib/assets/images/ballon_goodomensfanzine_field.jpg';
-    import zine_image from '$lib/assets/images/ballon_goodomensfanzine.jpg';
+    import zine_image from '$lib/assets/images/temp_cuisine_title.png';
 
 </script>
 
@@ -26,7 +28,7 @@
                     <h2 class="card-title">Ineffable Cuisine zine</h2>
                     <p>Comming soon.</p>
                     <div class="card-actions justify-end">
-                    <button class="btn btn-primary">Preorder soon</button>
+                    <a class="btn btn-primary" href="{resolve("/ineffableCuisineZine")}">Learn more</a>
                     </div>
                 </div>
                 <!-- <figure>
