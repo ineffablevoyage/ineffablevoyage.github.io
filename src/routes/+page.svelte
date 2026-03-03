@@ -4,7 +4,7 @@
 	import { resolve } from '$app/paths';
 
 	import background from '$lib/assets/images_vrac/ballon_goodomensfanzine_field.jpg';
-    import zine_image from '$lib/assets/images_vrac/temp_cuisine_title.png';
+    import zine_image from '$lib/assets/cuisine_zine/cusine_cover_sketch.png';
 
 </script>
 
