@@ -1,12 +1,4 @@
-<!-- <div class="main_container">
-    <div class="title">
-        <h1>[Main page]</h1>
-    </div>
-    <div class="main_content">
-
-
-    </div>
-</div> -->
+<!-- Home -->
 
 <script lang="ts">
 	import { resolve } from '$app/paths';
@@ -31,11 +23,6 @@
                     <a class="btn btn-primary" href="{resolve("/ineffableCuisineZine")}">Learn more</a>
                     </div>
                 </div>
-                <!-- <figure>
-                    <img
-                    src="{zine_image}"
-                    alt="fanzine cover" />
-                </figure> -->
                 <div class="hover-3d">
                     <!-- content -->
                     <figure class="w-100">
@@ -52,28 +39,6 @@
                     <div></div>
                 </div>
             </div>
-            <!-- <h1 class="mb-5 text-5xl font-bold">Ineffable Cuisine</h1>
-            <p class="mb-5">
-                A new fanzine made by the people that made Ineffable voyage. 
-            </p>
-            <button class="btn btn-primary">Preorder soon !</button> -->
         </div>
     </div>
 </div>
-
-<!-- <div class="hero bg-base-200 min-h-screen">
-    <div class="hero-content flex-col lg:flex-row-reverse">
-        <img
-        src="{zine_image}"
-        class="max-w-sm rounded-lg shadow-2xl"
-        alt=""
-        />
-        <div>
-            <h1 class="text-5xl font-bold">Ineffable Cuisine Fanzine </h1>
-            <p class="py-6">
-                A new fanzine following the Ineffable Voyage one made by the same group ! New arts, new fics, and even more sweet !
-            </p>
-            <button class="btn btn-primary">Preorder soon !</button>
-        </div>
-    </div>
-</div> -->
