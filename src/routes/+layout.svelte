@@ -50,6 +50,8 @@
 					<div class="swap-on">😈</div>
 					<div class="swap-off">😇</div>
 				</label>
+				<!-- Empty div to avoid side scrolling due to the label -->
+				<div class="w-1"></div>
 			</div>
 		</nav>
 
