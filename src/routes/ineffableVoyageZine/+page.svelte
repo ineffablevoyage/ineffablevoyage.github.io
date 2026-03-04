@@ -24,104 +24,14 @@
 
 </script>
 
-<!-- TODO : https://daisyui.com/components/card/  =>  To use to create for participants -->
+<!-- TODO : Add zine informations -->
+
+<!-- TODO : Add divider for participants -->
 
 
-<!-- <div class="carousel rounded-box max-w-3/4 space-x-4 p-4">
-  <div class="carousel-item">
-    <div class="card bg-base-200 w-96 shadow-sm">
-        <figure>
-            <img
-            src={agrumetendre_avatar}
-            alt="agrume tendre avatar" />
-        </figure>
-        <div class="card-body">
-            <h2 class="card-title">Agrume Tendre</h2>
-            <p>Good Omens was on the watchlist of Agrume Tendre since 2019, but it's only with the release of season two that she watched the show. She fell in love very hard very fast with Crowley and Aziraphale, and proceeded to draw them constantly, starting with Inktober 2023 that she posted daily on TikTok. Good Omens and the fandom really motivated her to draw more and to write her own stories. Long live this beautiful fandom!</p>
-            <div class="card-actions justify-center">
-            <button class="btn btn-primary">Social</button> 
-            </div>
-        </div>
-        </div>
-  </div>
-  <div class="carousel-item">
-    <div class="card bg-base-200 w-96 shadow-sm">
-        <figure>
-            <img
-            src={agrumetendre_avatar}
-            alt="agrume tendre avatar" />
-        </figure>
-        <div class="card-body">
-            <h2 class="card-title">Agrume Tendre</h2>
-            <p>Good Omens was on the watchlist of Agrume Tendre since 2019, but it's only with the release of season two that she watched the show. She fell in love very hard very fast with Crowley and Aziraphale, and proceeded to draw them constantly, starting with Inktober 2023 that she posted daily on TikTok. Good Omens and the fandom really motivated her to draw more and to write her own stories. Long live this beautiful fandom!</p>
-            <div class="card-actions justify-center">
-            <button class="btn btn-primary">Social</button> 
-            </div>
-        </div>
-        </div>
-  </div>
-  <div class="carousel-item">
-   <div class="card bg-base-200 w-96 shadow-sm">
-        <figure>
-            <img
-            src={agrumetendre_avatar}
-            alt="agrume tendre avatar" />
-        </figure>
-        <div class="card-body">
-            <h2 class="card-title">Agrume Tendre</h2>
-            <p>Good Omens was on the watchlist of Agrume Tendre since 2019, but it's only with the release of season two that she watched the show. She fell in love very hard very fast with Crowley and Aziraphale, and proceeded to draw them constantly, starting with Inktober 2023 that she posted daily on TikTok. Good Omens and the fandom really motivated her to draw more and to write her own stories. Long live this beautiful fandom!</p>
-            <div class="card-actions justify-center">
-            <button class="btn btn-primary">Social</button> 
-            </div>
-        </div>
-        </div>
-  </div>
-  <div class="carousel-item">
-   <div class="card bg-base-200 w-96 shadow-sm">
-        <figure>
-            <img
-            src={agrumetendre_avatar}
-            alt="agrume tendre avatar" />
-        </figure>
-        <div class="card-body">
-            <h2 class="card-title">Agrume Tendre</h2>
-            <p>Good Omens was on the watchlist of Agrume Tendre since 2019, but it's only with the release of season two that she watched the show. She fell in love very hard very fast with Crowley and Aziraphale, and proceeded to draw them constantly, starting with Inktober 2023 that she posted daily on TikTok. Good Omens and the fandom really motivated her to draw more and to write her own stories. Long live this beautiful fandom!</p>
-            <div class="card-actions justify-center">
-            <button class="btn btn-primary">Social</button> 
-            </div>
-        </div>
-        </div>
-  </div>
-</div>
+<div class="grid sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-4 justify-items-center">
 
-
-<div class="carousel rounded-box">
-  <div id="item1" class="carousel-item">
-
-  </div>
-  <div id="item2" class="carousel-item">
-
-
-  </div>
-  <div id="item3" class="carousel-item">
-
-  </div>
-  <div id="item4" class="carousel-item">
-
-  </div>
-</div>
-<div class="flex justify-center gap-2 py-2">
-  <a href="#item1" class="btn btn-xs">1</a>
-  <a href="#item2" class="btn btn-xs">2</a>
-  <a href="#item3" class="btn btn-xs">3</a>
-  <a href="#item4" class="btn btn-xs">4</a>
-</div> -->
-
-
-
-<div class="grid grid-cols-3 md:grid-cols-5 gap-4 justify-items-center">
-
-        <div class="card bg-base-200 w-96 shadow-sm">
+        <div class="card bg-base-200 w-5/6 shadow-sm">
         <figure>
             <img
             src={agrumetendre_avatar}
@@ -136,7 +46,7 @@
         </div>
         </div>
 
-        <div class="card bg-base-200 w-96 shadow-sm">
+        <div class="card bg-base-200 w-5/6 shadow-sm">
         <figure>
             <img
             src={angellilou_avatar}
@@ -151,7 +61,7 @@
         </div>
         </div>
 
-        <div class="card bg-base-200 w-96 shadow-sm">
+        <div class="card bg-base-200 w-5/6 shadow-sm">
         <figure>
             <img
             src={bucky_avatar}
@@ -166,7 +76,7 @@
         </div>
         </div>
 
-        <div class="card bg-base-200 w-96 shadow-sm">
+        <div class="card bg-base-200 w-5/6 shadow-sm">
         <figure>
             <img
             src={chouly_avatar}
@@ -181,7 +91,7 @@
         </div>
         </div>
 
-        <div class="card bg-base-200 w-96 shadow-sm">
+        <div class="card bg-base-200 w-5/6 shadow-sm">
         <figure>
             <img
             src={cybi_avatar}
@@ -196,7 +106,7 @@
         </div>
         </div>
 
-        <div class="card bg-base-200 w-96 shadow-sm">
+        <div class="card bg-base-200 w-5/6 shadow-sm">
         <figure>
             <img
             src={elnora_avatar}
@@ -211,7 +121,7 @@
         </div>
         </div>
 
-        <div class="card bg-base-200 w-96 shadow-sm">
+        <div class="card bg-base-200 w-5/6 shadow-sm">
         <figure>
             <img
             src={emi_avatar}
@@ -226,7 +136,7 @@
         </div>
         </div>
 
-        <div class="card bg-base-200 w-96 shadow-sm">
+        <div class="card bg-base-200 w-5/6 shadow-sm">
         <figure>
             <img
             src={enelica_avatar}
@@ -241,7 +151,7 @@
         </div>
         </div>
 
-        <div class="card bg-base-200 w-96 shadow-sm">
+        <div class="card bg-base-200 w-5/6 shadow-sm">
         <figure>
             <img
             src={kaitas_avatar}
@@ -256,7 +166,7 @@
         </div>
         </div>
 
-        <div class="card bg-base-200 w-96 shadow-sm">
+        <div class="card bg-base-200 w-5/6 shadow-sm">
         <figure>
             <img
             src={kay_avatar}
@@ -271,7 +181,7 @@
         </div>
         </div>
 
-        <div class="card bg-base-200 w-96 shadow-sm">
+        <div class="card bg-base-200 w-5/6 shadow-sm">
         <figure>
             <img
             src={kimy_avatar}
@@ -286,7 +196,7 @@
         </div>
         </div>
 
-        <div class="card bg-base-200 w-96 shadow-sm">
+        <div class="card bg-base-200 w-5/6 shadow-sm">
         <figure>
             <img
             src={lambre_avatar}
@@ -301,7 +211,7 @@
         </div>
         </div>
 
-        <div class="card bg-base-200 w-96 shadow-sm">
+        <div class="card bg-base-200 w-5/6 shadow-sm">
         <figure>
             <img
             src={piki_avatar}
@@ -316,7 +226,7 @@
         </div>
         </div>
 
-        <div class="card bg-base-200 w-96 shadow-sm">
+        <div class="card bg-base-200 w-5/6 shadow-sm">
         <figure>
             <img
             src={tsar_avatar}
@@ -331,7 +241,7 @@
         </div>
         </div>
 
-        <div class="card bg-base-200 w-96 shadow-sm">
+        <div class="card bg-base-200 w-5/6 shadow-sm">
         <figure>
             <img
             src={zevampirex_avatar}
