@@ -12,12 +12,12 @@
 
 
 <div class="drawer">
-	<input id="my-drawer-2" type="checkbox" class="drawer-toggle" />
+	<input id="navigation-drawer" type="checkbox" class="drawer-toggle" />
 	<div class="drawer-content flex flex-col">
 		<!-- Navbar -->
 		<nav class="navbar bg-base-300 shadow-sm w-full" id="header_menu">
 			<div class="flex-none lg:hidden">
-				<label for="my-drawer-2" aria-label="open sidebar" class="btn btn-square btn-ghost">
+				<label for="navigation-drawer" aria-label="open sidebar" class="btn btn-square btn-ghost">
 				<svg
 					xmlns="http://www.w3.org/2000/svg"
 					fill="none"
@@ -55,7 +55,7 @@
 
 	</div>
 	<div class="drawer-side">
-		<label for="my-drawer-2" aria-label="close sidebar" class="drawer-overlay"></label>
+		<label for="navigation-drawer" aria-label="close sidebar" class="drawer-overlay"></label>
 		<ul class="menu bg-base-200 min-h-full w-80 p-4">
 			<!-- Sidebar content here -->
 			<a class="btn btn-ghost text-xl" href="{resolve("/")}">Home</a>
