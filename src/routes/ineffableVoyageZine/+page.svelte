@@ -1,9 +1,6 @@
 <!-- Ineffable Voyage zine -->
 
 <script lang="ts">
-	import { resolve } from '$app/paths';
-
-	import background from '$lib/assets/images_vrac/ballon_goodomensfanzine_field.jpg';
     import zine_image from '$lib/assets/images_vrac/temp_cuisine_title.png';
 
     import agrumetendre_avatar from '$lib/assets/voyage_zine/avatar/agrume_tendre.jpg';
@@ -25,11 +22,14 @@
 </script>
 
 <!-- TODO : Add zine informations -->
+ <h1 class="text-xl text-center font-semibold">Ineffable Voyage zine</h1>
 
 <!-- TODO : Add divider for participants -->
 
+<h1 class="text-xl text-center font-semibold">Meet the team!</h1>
 
-<div class="grid sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-4 justify-items-center">
+<!-- TODO : Standardise avatar size ? -->
+<div class="grid sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-4 m-10 justify-items-center">
 
         <div class="card bg-base-200 w-5/6 shadow-sm">
         <figure>
@@ -129,7 +129,7 @@
         </figure>
         <div class="card-body">
             <h2 class="card-title">Emeline Hofmann</h2>
-            <p>Emi fell into the Good Omens spiral 25 years ago, when her best friend put the book in her hands. Of course, she saw the rst season when it came out, excited by the fact that one of her favorite books was being adapted. But it's thanks to season 2 that she picked up her pencils again, after almost 10 years without touching them, and since then, she hasn't spent a day without drawing! Thank you, ineffable husbands!</p>
+            <p>Emi fell into the Good Omens spiral 25 years ago, when her best friend put the book in her hands. Of course, she saw the first season when it came out, excited by the fact that one of her favorite books was being adapted. But it's thanks to season 2 that she picked up her pencils again, after almost 10 years without touching them, and since then, she hasn't spent a day without drawing! Thank you, ineffable husbands!</p>
             <div class="card-actions justify-center">
             <button class="btn btn-primary">Social</button> 
             </div>
@@ -144,7 +144,7 @@
         </figure>
         <div class="card-body">
             <h2 class="card-title">Enelica</h2>
-            <p>French artist who can't spend a second without thinking about the ineable husbands. Currently trying not to be late for her latest fancomic "Meet me in Eden", even though she keeps adding "just one last detail!".</p>
+            <p>French artist who can't spend a second without thinking about the ineffable husbands. Currently trying not to be late for her latest fancomic "Meet me in Eden", even though she keeps adding "just one last detail!".</p>
             <div class="card-actions justify-center">
             <button class="btn btn-primary">Social</button> 
             </div>
@@ -204,7 +204,7 @@
         </figure>
         <div class="card-body">
             <h2 class="card-title">Lambre</h2>
-            <p>After rewatching the first season of Good Omens in 2023, Lambre fell down a rabbit hole of passion for the show that doesn't seem to have an end. Thanks to that, they found back their will to write and have too many fic ideas that they denitely can't write all at once.</p>
+            <p>After rewatching the first season of Good Omens in 2023, Lambre fell down a rabbit hole of passion for the show that doesn't seem to have an end. Thanks to that, they found back their will to write and have too many fic ideas that they definitely can't write all at once.</p>
             <div class="card-actions justify-center">
             <button class="btn btn-primary">Social</button> 
             </div>
