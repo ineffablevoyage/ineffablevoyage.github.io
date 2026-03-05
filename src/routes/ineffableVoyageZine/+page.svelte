@@ -22,14 +22,13 @@
 </script>
 
 <!-- TODO : Add zine informations -->
- <h1 class="text-xl text-center font-semibold">Ineffable Voyage zine</h1>
+<h1 class="text-xl text-center font-semibold">Ineffable Voyage zine</h1>
 
 <!-- TODO : Add divider for participants -->
-
-<h1 class="text-xl text-center font-semibold">Meet the team!</h1>
+<!-- <h1 class="text-xl text-center font-semibold">Meet the team!</h1> -->
 
 <!-- TODO : Standardise avatar size ? -->
-<div class="grid sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-4 m-10 justify-items-center">
+<!-- <div class="grid sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-4 m-10 justify-items-center">
 
         <div class="card bg-base-200 w-5/6 shadow-sm">
         <figure>
@@ -256,4 +255,4 @@
         </div>
         </div>
 
-</div>
+</div> -->

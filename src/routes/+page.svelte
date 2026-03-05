@@ -8,6 +8,9 @@
 
 </script>
 
+<!-- TODO : Change presentation depending on screen size by using the hidden attribute in the same way as for the navbar -->
+
+
 <div
   class="hero min-h-screen"
   style="background-image: url('{background}');"
