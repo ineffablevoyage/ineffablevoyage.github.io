@@ -17,7 +17,7 @@
     import lambre_avatar from '$lib/assets/voyage_zine/avatars/lambre.png';
     import piki_avatar from '$lib/assets/voyage_zine/avatars/piki.jpg';
     import tsar_avatar from '$lib/assets/voyage_zine/avatars/tsar_2024_rond.png';
-    import zevampirex_avatar from '$lib/assets/voyage_zine/avatars/zevampirex.jpeg';
+    import zevampirex_avatar from '$lib/assets/voyage_zine/avatars/zevampirex.jpg';
 
 </script>
 
