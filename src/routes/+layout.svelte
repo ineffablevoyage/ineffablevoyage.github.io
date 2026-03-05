@@ -58,7 +58,7 @@
 	</div>
 	<div class="drawer-side">
 		<label for="navigation-drawer" aria-label="close sidebar" class="drawer-overlay"></label>
-		<ul class="menu bg-base-200 min-h-full w-80 p-4">
+		<ul class="menu bg-base-200 min-h-full w-80 p-4 pt-10">
 			<!-- Sidebar content here -->
 			<a class="btn btn-ghost text-xl" href="{resolve("/")}">Home</a>
 			<a class="btn btn-ghost text-xl" href="{resolve("/ineffableVoyageZine")}">Ineffable Voyage zine</a>
