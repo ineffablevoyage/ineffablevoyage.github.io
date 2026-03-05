@@ -60,10 +60,22 @@
 		<label for="navigation-drawer" aria-label="close sidebar" class="drawer-overlay"></label>
 		<ul class="menu bg-base-200 min-h-full w-80 p-4 pt-10">
 			<!-- Sidebar content here -->
-			<a class="btn btn-ghost text-xl" href="{resolve("/")}">Home</a>
-			<a class="btn btn-ghost text-xl" href="{resolve("/ineffableVoyageZine")}">Ineffable Voyage zine</a>
-			<a class="btn btn-ghost text-xl" href="{resolve("/ineffableCuisineZine")}">Ineffable Cuisine zine</a>
-			<a class="btn btn-ghost text-xl" href="{resolve("/about")}">About</a>
+			<a class="btn btn-ghost text-xl" onclick={() => {document.getElementById('navigation-drawer').click()}} href="{resolve("/")}">Home</a>
+			<a class="btn btn-ghost text-xl" onclick={() => {document.getElementById('navigation-drawer').click()}} href="{resolve("/ineffableVoyageZine")}">Ineffable Voyage zine</a>
+			<a class="btn btn-ghost text-xl" onclick={() => {document.getElementById('navigation-drawer').click()}} href="{resolve("/ineffableCuisineZine")}">Ineffable Cuisine zine</a>
+			<a class="btn btn-ghost text-xl" onclick={() => {document.getElementById('navigation-drawer').click()}} href="{resolve("/about")}">About</a>
+
+			<button class="btn btn-ghost" aria-label="close button" onclick={() => {document.getElementById('navigation-drawer').click()}}>
+					<svg
+						class="swap-on fill-current"
+						xmlns="http://www.w3.org/2000/svg"
+						width="32"
+						height="32"
+						viewBox="0 0 512 512">
+						<polygon
+						points="400 145.49 366.51 112 256 222.51 145.49 112 112 145.49 222.51 256 112 366.51 145.49 400 256 289.49 366.51 400 400 366.51 289.49 256 400 145.49" />
+					</svg>
+			</button>
 		</ul>
 	</div>
 </div>
