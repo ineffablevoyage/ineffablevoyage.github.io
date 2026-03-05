@@ -6,9 +6,9 @@
     import agrumetendre_avatar from '$lib/assets/voyage_zine/avatar/agrumeTendre.jpg';
     import angellilou_avatar from '$lib/assets/voyage_zine/avatar/angellilou.jpg';
     import bucky_avatar from '$lib/assets/voyage_zine/avatar/bucky.png';
-    import chouly_avatar from '$lib/assets/voyage_zine/avatar/chouly_temp.png';
+    import chouly_avatar from '$lib/assets/voyage_zine/avatar/chouly.png';
     import cybi_avatar from '$lib/assets/voyage_zine/avatar/cybi.png';
-    import elnora_avatar from '$lib/assets/voyage_zine/avatar/elnoraW.jpg';
+    import elnora_avatar from '$lib/assets/voyage_zine/avatar/elnora.jpg';
     import emi_avatar from '$lib/assets/voyage_zine/avatar/emi.jpg';
     import enelica_avatar from '$lib/assets/voyage_zine/avatar/enelica.png';
     import kaitas_avatar from '$lib/assets/voyage_zine/avatar/kaitas.jpg';
