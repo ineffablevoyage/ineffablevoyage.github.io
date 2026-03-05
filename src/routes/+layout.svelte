@@ -16,7 +16,7 @@
 	<div class="drawer-content flex flex-col">
 		<!-- Navbar -->
 		<nav class="navbar bg-base-300 shadow-sm w-full" id="header_menu">
-			<div class="flex-none lg:hidden">
+			<div class="flex-none md:hidden">
 				<label for="navigation-drawer" aria-label="open sidebar" class="btn btn-square btn-ghost">
 				<svg
 					xmlns="http://www.w3.org/2000/svg"
@@ -34,7 +34,7 @@
 				</label>
 			</div>
 			<div class="navbar-start"></div>
-			<div class="navbar-center hidden flex-none lg:block">
+			<div class="navbar-center hidden flex-none md:block">
 				<ul class="menu menu-horizontal">
 				<!-- Navbar menu content here -->
 					<a class="btn btn-ghost text-xl" href="{resolve("/")}">Home</a>
