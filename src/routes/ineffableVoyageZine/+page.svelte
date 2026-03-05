@@ -3,21 +3,21 @@
 <script lang="ts">
     import zine_image from '$lib/assets/images_vrac/temp_cuisine_title.png';
 
-    import agrumetendre_avatar from '$lib/assets/voyage_zine/avatar/agrumeTendre.jpg';
-    import angellilou_avatar from '$lib/assets/voyage_zine/avatar/angellilou.jpg';
-    import bucky_avatar from '$lib/assets/voyage_zine/avatar/bucky.png';
-    import chouly_avatar from '$lib/assets/voyage_zine/avatar/chouly.png';
-    import cybi_avatar from '$lib/assets/voyage_zine/avatar/cybi.png';
-    import elnora_avatar from '$lib/assets/voyage_zine/avatar/elnora.jpg';
-    import emi_avatar from '$lib/assets/voyage_zine/avatar/emi.jpg';
-    import enelica_avatar from '$lib/assets/voyage_zine/avatar/enelica.png';
-    import kaitas_avatar from '$lib/assets/voyage_zine/avatar/kaitas.jpg';
-    import kay_avatar from '$lib/assets/voyage_zine/avatar/kay.png';
-    import kimy_avatar from '$lib/assets/voyage_zine/avatar/kimy.png';
-    import lambre_avatar from '$lib/assets/voyage_zine/avatar/lambre.png';
-    import piki_avatar from '$lib/assets/voyage_zine/avatar/piki.jpg';
-    import tsar_avatar from '$lib/assets/voyage_zine/avatar/tsar_2024_rond.png';
-    import zevampirex_avatar from '$lib/assets/voyage_zine/avatar/zevampirex.jpeg';
+    import agrumetendre_avatar from '$lib/assets/voyage_zine/avatars/agrumeTendre.jpg';
+    import angellilou_avatar from '$lib/assets/voyage_zine/avatars/angellilou.jpg';
+    import bucky_avatar from '$lib/assets/voyage_zine/avatars/bucky.png';
+    import chouly_avatar from '$lib/assets/voyage_zine/avatars/chouly.png';
+    import cybi_avatar from '$lib/assets/voyage_zine/avatars/cybi.png';
+    import elnora_avatar from '$lib/assets/voyage_zine/avatars/elnora.jpg';
+    import emi_avatar from '$lib/assets/voyage_zine/avatars/emi.jpg';
+    import enelica_avatar from '$lib/assets/voyage_zine/avatars/enelica.png';
+    import kaitas_avatar from '$lib/assets/voyage_zine/avatars/kaitas.jpg';
+    import kay_avatar from '$lib/assets/voyage_zine/avatars/kay.png';
+    import kimy_avatar from '$lib/assets/voyage_zine/avatars/kimy.png';
+    import lambre_avatar from '$lib/assets/voyage_zine/avatars/lambre.png';
+    import piki_avatar from '$lib/assets/voyage_zine/avatars/piki.jpg';
+    import tsar_avatar from '$lib/assets/voyage_zine/avatars/tsar_2024_rond.png';
+    import zevampirex_avatar from '$lib/assets/voyage_zine/avatars/zevampirex.jpeg';
 
 </script>
 
