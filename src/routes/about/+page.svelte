@@ -9,7 +9,7 @@
   style="background-image: url(https://img.daisyui.com/images/stock/photo-1507358522600-9f71e620c44e.webp);"
 > -->
 <div
-  class="hero min-h-screen"
+  class="flex-1 hero min-h-full"
 >
     <div class="hero-overlay"></div>
     <div class="hero-content text-secondary-content text-center">
