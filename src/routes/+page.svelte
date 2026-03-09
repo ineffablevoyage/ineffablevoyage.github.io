@@ -1,18 +1,17 @@
 <!-- Home -->
 
 <script lang="ts">
-	import { resolve } from '$app/paths';
+    import { resolve } from '$app/paths';
 
 	import background from '$lib/assets/images_vrac/ballon_goodomensfanzine_field.jpg';
     import zine_image from '$lib/assets/cuisine_zine/cusine_cover_sketch.png';
-
 </script>
 
 <!-- TODO : Change presentation depending on screen size by using the hidden attribute in the same way as for the navbar -->
 
 
 <div
-  class="hero min-h-screen"
+  class="flex-1 hero min-h-full"
   style="background-image: url('{background}');"
 >
     <!-- <div class="hero-overlay"></div> -->
