@@ -16,8 +16,8 @@
 >
     <!-- <div class="hero-overlay"></div> -->
     <div class="hero-content text-neutral-content text-center">
-        <div class="max-w-xl">
-            <div class="card card-side bg-base-100 shadow-sm">
+        <!-- <div class="max-w-xl"> -->
+            <div class="card lg:card-side bg-base-100 shadow-sm max:w-5/6">
                 <div class="card-body">
                     <h2 class="card-title">Ineffable Cuisine zine</h2>
                     <p>Comming soon.</p>
@@ -27,7 +27,7 @@
                 </div>
                 <div class="hover-3d">
                     <!-- content -->
-                    <figure class="w-100">
+                    <figure class="md:w-100">
                         <img src="{zine_image}" alt="fanzine cover" />
                     </figure>
                     <!-- 8 empty divs needed for the 3D effect -->
@@ -41,6 +41,6 @@
                     <div></div>
                 </div>
             </div>
-        </div>
+        <!-- </div> -->
     </div>
 </div>
