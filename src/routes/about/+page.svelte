@@ -32,7 +32,7 @@
                     </div>
 
                     <div class="divider"></div>
-                    <a class="btn btn-accent" href="url(https://www.instagram.com/ineffablevoyage_zine/)">Instagram</a>
+                    <a class="btn btn-accent" href="https://www.instagram.com/ineffablevoyage_zine/">Instagram</a>
                 </div>
             </div>
         </div>
