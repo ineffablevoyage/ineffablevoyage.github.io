@@ -11,7 +11,7 @@
 <!-- General div for the page -->
 <div class="flex w-full flex-col items-center gap-15 mt-10 mb-10">
 
-    <div class="card w-3/4 md:card-side bg-base-200 shadow-sm">
+    <div class="card w-5/6 lg:w-2/3 md:card-side bg-base-200 shadow-sm">
     <figure>
         <img
         src={zine_image}

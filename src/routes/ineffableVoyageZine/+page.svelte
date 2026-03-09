@@ -27,19 +27,19 @@
 <!-- General div for the page -->
 <div class="flex w-full flex-col items-center gap-15 mt-10 mb-10">
 
-    <div class="card w-3/4 md:card-side bg-base-200 shadow-sm">
-    <figure>
-        <img
-        src={zine_image}
-        alt="Ineffable Voyage zine cover" />
-    </figure>
-    <div class="card-body md:min-w-1/2"> <!-- TODO : Once the text is added, test best width for this element-->
-        <h2 class="card-title">Ineffable Voyage zine</h2>
-        <p>A fanzine about Aziraphale and Crowley traveling </p>
-        <div class="card-actions justify-end">
-        <!-- <button class="btn btn-primary">Listen</button> -->
+    <div class="card w-5/6 lg:w-2/3 md:card-side bg-base-200 shadow-sm">
+        <figure>
+            <img
+            src={zine_image}
+            alt="Ineffable Voyage zine cover" />
+        </figure>
+        <div class="card-body md:min-w-1/2"> <!-- TODO : Once the text is added, test best width for this element-->
+            <h2 class="card-title">Ineffable Voyage zine</h2>
+            <p>A fanzine about Aziraphale and Crowley traveling </p>
+            <div class="card-actions justify-end">
+            <!-- <button class="btn btn-primary">Listen</button> -->
+            </div>
         </div>
-    </div>
     </div>
 
 
