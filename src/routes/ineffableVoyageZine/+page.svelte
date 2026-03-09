@@ -37,7 +37,7 @@
         <h2 class="card-title">Ineffable Voyage zine</h2>
         <p>A fanzine about Aziraphale and Crowley traveling </p>
         <div class="card-actions justify-end">
-        <button class="btn btn-primary">Listen</button>
+        <!-- <button class="btn btn-primary">Listen</button> -->
         </div>
     </div>
     </div>
