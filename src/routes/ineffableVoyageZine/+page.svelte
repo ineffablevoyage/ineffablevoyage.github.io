@@ -61,7 +61,8 @@
                 <h2 class="card-title">Agrume Tendre</h2>
                 <p>Good Omens was on the watchlist of Agrume Tendre since 2019, but it's only with the release of season two that she watched the show. She fell in love very hard very fast with Crowley and Aziraphale, and proceeded to draw them constantly, starting with Inktober 2023 that she posted daily on TikTok. Good Omens and the fandom really motivated her to draw more and to write her own stories. Long live this beautiful fandom!</p>
                 <div class="card-actions justify-center">
-                <button class="btn btn-primary">Social</button> 
+                <a class="btn btn-primary" href="https://www.instagram.com/agrume_tendre/">Instagram</a>
+                <a class="btn btn-primary" href="https://www.tiktok.com/@agrumee_">TikTok</a>
                 </div>
             </div>
             </div>
@@ -76,7 +77,9 @@
                 <h2 class="card-title">Angellilou</h2>
                 <p>Angellilou has loved Good Omens since the 1st season but couldn't be active in the fandom due to studies. Once season 2 was released and they graduated, they could unleash the beast. And what a mistake to let that silly snake create what they want... In a year, Lilou (or Angel, who cares?), made an illustrated book about the Ineffable Romans and has a Vampire AU project on the way. Unstoppable, that's what they are.</p>
                 <div class="card-actions justify-center">
-                <button class="btn btn-primary">Social</button> 
+                <a class="btn btn-primary" href="https://bsky.app/profile/angellilou.bsky.social">BlueSky</a>
+                <a class="btn btn-primary" href="https://www.instagram.com/angellilou.art/">Instagram</a>
+                <a class="btn btn-primary" href="https://www.tumblr.com/angellilou-art">Tumblr</a> 
                 </div>
             </div>
             </div>
@@ -91,7 +94,8 @@
                 <h2 class="card-title">Bucky</h2>
                 <p>French author and hopeless romantic, Bucky1984 has been adopted by the GO family (for love and eternityyyy) for nearly two years now, and had no choice but to write about our Ineffable Husbands since. Because, well... They are love incarnate! Keep faith in them and VAVOOM !</p>
                 <div class="card-actions justify-center">
-                <button class="btn btn-primary">Social</button> 
+                <a class="btn btn-primary" href="https://www.instagram.com/bucky.1984/">Instagram</a> 
+                <a class="btn btn-primary" href="https://x.com/BuckyBildaddy">Twitter</a> 
                 </div>
             </div>
             </div>
@@ -106,7 +110,7 @@
                 <h2 class="card-title">Chouly/Lychoubi</h2>
                 <p>Obsessed with Good Omens and the husbands since 2019, the show is now literally part of her DNA. The ineffable lovely idiots help her improve in making comics, as she has already created over 7 on Good Omens, like her Atlantis AU. And this obsession does not seem to vanish any time soon... Ngk !</p>
                 <div class="card-actions justify-center">
-                <button class="btn btn-primary">Social</button> 
+                <a class="btn btn-primary" href="https://www.instagram.com/lychoubi.art/">Instagram</a> 
                 </div>
             </div>
             </div>
@@ -121,7 +125,7 @@
                 <h2 class="card-title">Cybi</h2>
                 <p>A French artist who fell in love with Good Omens on a random Tuesday without knowing it (thank you, Pinterest) and who ended up being obsessed for 2 years now! But, I mean, who could resist Crowley and Aziraphale ?</p>
                 <div class="card-actions justify-center">
-                <button class="btn btn-primary">Social</button> 
+                <a class="btn btn-primary" href="https://www.instagram.com/artist.fairy/">Instagram</a> 
                 </div>
             </div>
             </div>
@@ -136,7 +140,7 @@
                 <h2 class="card-title">Elnöra Whittaker</h2>
                 <p>Elnöra is a Belgian artist who fell head over heels for the ineffable husbands and she hasn't gotten up since. She also sold her soul to her Reverse AU, Dusty Omens, that she's currently working on.</p>
                 <div class="card-actions justify-center">
-                <button class="btn btn-primary">Social</button> 
+                <a class="btn btn-primary" href="https://www.instagram.com/elnorawhittaker/">Instagram</a> 
                 </div>
             </div>
             </div>
@@ -151,7 +155,8 @@
                 <h2 class="card-title">Emeline Hofmann</h2>
                 <p>Emi fell into the Good Omens spiral 25 years ago, when her best friend put the book in her hands. Of course, she saw the first season when it came out, excited by the fact that one of her favorite books was being adapted. But it's thanks to season 2 that she picked up her pencils again, after almost 10 years without touching them, and since then, she hasn't spent a day without drawing! Thank you, ineffable husbands!</p>
                 <div class="card-actions justify-center">
-                <button class="btn btn-primary">Social</button> 
+                <a class="btn btn-primary" href="https://www.instagram.com/emi.hotaru/">Instagram</a> 
+                <a class="btn btn-primary" href="https://www.tumblr.com/emihotaru">Tumblr</a> 
                 </div>
             </div>
             </div>
@@ -166,7 +171,7 @@
                 <h2 class="card-title">Enelica</h2>
                 <p>French artist who can't spend a second without thinking about the ineffable husbands. Currently trying not to be late for her latest fancomic "Meet me in Eden", even though she keeps adding "just one last detail!".</p>
                 <div class="card-actions justify-center">
-                <button class="btn btn-primary">Social</button> 
+                <a class="btn btn-primary" href="https://www.instagram.com/enelica.cl/">Instagram</a> 
                 </div>
             </div>
             </div>
@@ -181,7 +186,9 @@
                 <h2 class="card-title">Kaitas</h2>
                 <p>After years of obsessing over Doctor Who and an art block quite gigantic, Kaitas started a new obsession over Good Omens (no, it's not the same! 10 never landed into The House! Okay?).</p>
                 <div class="card-actions justify-center">
-                <button class="btn btn-primary">Social</button> 
+                <a class="btn btn-primary" href="https://www.instagram.com/kaitasbaccus/">Instagram</a> 
+                <a class="btn btn-primary" href="https://x.com/KaitasBaccus">Twitter</a> 
+                <a class="btn btn-primary" href="https://ko-fi.com/kaitasbaccus/shop">Ko-Fi</a> 
                 </div>
             </div>
             </div>
@@ -196,7 +203,7 @@
                 <h2 class="card-title">Kay</h2>
                 <p>After years of hearing about Good Omens, Kay finally decided to give it a go when Season 2 aired. Since then, the show has become a real source of inspiration for them, whether it's for drawing, cosplay, music, or crochet. It has also allowed them to meet an amazing community that is equally inspired and involved.</p>
                 <div class="card-actions justify-center">
-                <button class="btn btn-primary">Social</button> 
+                <a class="btn btn-primary" href="https://www.instagram.com/sketchy.kay_/">Instagram</a> 
                 </div>
             </div>
             </div>
@@ -211,7 +218,7 @@
                 <h2 class="card-title">Kimyekai</h2>
                 <p>Started watchin Good Omens on a Sunday of November, ended up watching the two seasons in one go. They didn't sleep that night, but they never stopped drawing these two silies since then. They have taken over their life.</p>
                 <div class="card-actions justify-center">
-                <button class="btn btn-primary">Social</button> 
+                <a class="btn btn-primary" href="https://www.instagram.com/kimyekai_art/">Instagram</a> 
                 </div>
             </div>
             </div>
@@ -226,7 +233,7 @@
                 <h2 class="card-title">Lambre</h2>
                 <p>After rewatching the first season of Good Omens in 2023, Lambre fell down a rabbit hole of passion for the show that doesn't seem to have an end. Thanks to that, they found back their will to write and have too many fic ideas that they definitely can't write all at once.</p>
                 <div class="card-actions justify-center">
-                <button class="btn btn-primary">Social</button> 
+                <a class="btn btn-primary" href="https://www.instagram.com/luniquelambre/">Instagram</a> 
                 </div>
             </div>
             </div>
@@ -241,7 +248,8 @@
                 <h2 class="card-title">Piki</h2>
                 <p>Traumatized (in the best way) by the end of season 2, Piki began her journey in the fandom heartbroken. She's forever grateful for the friends made along the way, and for Good Omens bringing back her passion for drawing, previously damaged by a burn out.</p>
                 <div class="card-actions justify-center">
-                <button class="btn btn-primary">Social</button> 
+                <a class="btn btn-primary" href="https://www.instagram.com/pikimachin/">Instagram</a> 
+                <a class="btn btn-primary" href="https://www.tumblr.com/pikipouet">Tumblr</a> 
                 </div>
             </div>
             </div>
@@ -256,7 +264,9 @@
                 <h2 class="card-title">Tsar</h2>
                 <p>TsarPopcorn (also know as Tsarletta) was resting from a busy year (and a burnout) when they decided to watch a new series. Little did they know about how strong their love for Good Omens would be... When they are not obsessing over old man yaoi, they enjoy painting animals and starry nights.</p>
                 <div class="card-actions justify-center">
-                <button class="btn btn-primary">Social</button> 
+                <a class="btn btn-primary" href="https://www.instagram.com/tsarpopcorn/">Instagram</a>
+                <a class="btn btn-primary" href="https://x.com/TsarPopcorn">Twitter</a>
+                <a class="btn btn-primary" href="https://www.patreon.com/tsarletta">Patreon</a>
                 </div>
             </div>
             </div>
@@ -271,7 +281,9 @@
                 <h2 class="card-title">Zevampirex</h2>
                 <p>After watching Good Omens with a friend during lunch times at school, the life of ZeVampirex was changed forever. Unable to wait for season 2, she started imagining parallel universes of the show, full of silly animals. Maybe because Michael Sheen is really hard to draw, who knows... Will she be able to draw humans one day? Maybe. Will she stop being obsessed with the angel and the demon? Very unlikely.</p>
                 <div class="card-actions justify-center">
-                <button class="btn btn-primary">Social</button> 
+                <a class="btn btn-primary" href="https://www.instagram.com/zevampirex/">Instagram</a> 
+                <a class="btn btn-primary" href="https://www.tumblr.com/zevampirex">Tumblr</a> 
+                <a class="btn btn-primary" href="https://www.patreon.com/ZeVampirex">Patreon</a> 
                 </div>
             </div>
             </div>
