@@ -56,7 +56,7 @@
                 <div class="hover-3d">
                     <!-- content -->
                     <figure class="md:w-100">
-                        <enhanced:img src={zine_image} alt="fanzine cover" />
+                        <enhanced:img src='#lib/assets/cuisine_zine/cusine_cover_sketch.png' alt="fanzine cover" />
                     </figure>
                     <!-- 8 empty divs needed for the 3D effect -->
                     <div></div>
