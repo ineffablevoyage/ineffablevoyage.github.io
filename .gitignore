@@ -1,4 +1,4 @@
-Old
+Old*
 
 node_modules
 
@@ -8,7 +8,7 @@ node_modules
 .netlify
 .wrangler
 /.svelte-kit
-/build
+-/build
 
 # OS
 .DS_Store
