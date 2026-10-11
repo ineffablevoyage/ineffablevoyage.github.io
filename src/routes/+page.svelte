@@ -12,7 +12,7 @@
 
 <div
   class="flex-1 hero min-h-full"
-  style="background-image: url('{background}');"
+  style="background-image: url({background});"
 >
     <!-- <div class="hero-overlay"></div> -->
     <div class="hero-content text-neutral-content text-center">
@@ -56,7 +56,7 @@
                 <div class="hover-3d">
                     <!-- content -->
                     <figure class="md:w-100">
-                        <enhanced:img src="{zine_image}" alt="fanzine cover" />
+                        <enhanced:img src={zine_image} alt="fanzine cover" />
                     </figure>
                     <!-- 8 empty divs needed for the 3D effect -->
                     <div></div>
