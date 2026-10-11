@@ -18,7 +18,7 @@ npm i -D @sveltejs/adapter-static
 ```
 
 The image enhancement module
-```
+```sh
 npm i -D @sveltejs/enhanced-img
 ```
 
