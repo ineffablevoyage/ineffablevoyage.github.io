@@ -29,7 +29,7 @@
 
                     <div class="flex-row">
                         <a class="btn btn-primary" href="{resolve("/ineffableVoyageZine")}">Ineffable Voyage</a>
-                        <a class="btn btn-primary" href="{resolve("/ineffableCuisineZine")}">Ineffable Cusine</a>
+                        <a class="btn btn-primary" href="{resolve("/ineffableCuisineZine")}">Ineffable Cuisine</a>
                     </div>
 
                     <div class="divider"></div>
