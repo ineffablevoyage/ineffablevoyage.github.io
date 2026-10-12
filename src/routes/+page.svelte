@@ -1,10 +1,10 @@
 <!-- Home -->
 
 <script lang="ts">
-    import { resolve } from '$app/paths';
+    import { resolve } from "$app/paths";
 
-	import background from '/src/lib/assets/images_vrac/ballon_goodomensfanzine_field.jpg';
-    import zine_image from '/src/lib/assets/cuisine_zine/cusine_cover_sketch.png';
+	import background from "/src/lib/assets/images_vrac/ballon_goodomensfanzine_field.jpg";
+    import zine_image from "/src/lib/assets/cuisine_zine/cusine_cover.png";
 </script>
 
 <!-- TODO : Change presentation depending on screen size by using the hidden attribute in the same way as for the navbar -->
@@ -56,7 +56,7 @@
                 <div class="hover-3d">
                     <!-- content -->
                     <figure class="md:w-100">
-                        <enhanced:img src={zine_image} alt="fanzine cover" />
+                        <enhanced:img src="/src/lib/assets/cuisine_zine/cusine_cover.png" alt="fanzine cover" />
                     </figure>
                     <!-- 8 empty divs needed for the 3D effect -->
                     <div></div>
