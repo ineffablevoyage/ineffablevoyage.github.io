@@ -3,7 +3,7 @@
 <script lang="ts">
     import { resolve } from '$app/paths';
 
-	import background from '#lib/assets/images_vrac/ballon_goodomensfanzine_field.jpg';
+	import background from '/src/lib/assets/images_vrac/ballon_goodomensfanzine_field.jpg';
     import zine_image from '/src/lib/assets/cuisine_zine/cusine_cover_sketch.png';
 </script>
 
