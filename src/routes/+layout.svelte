@@ -86,5 +86,6 @@
 
 <svelte:head>
 	<link rel="icon" href={favicon} />
+	<title>Ineffable Voyage & Co.</title>
 </svelte:head>
 
