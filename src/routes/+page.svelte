@@ -3,8 +3,8 @@
 <script lang="ts">
     import { resolve } from "$app/paths";
 
-	import background from "/src/lib/assets/images_vrac/ballon_goodomensfanzine_field.jpg";
-    import zine_image from "../lib/assets/cuisine_zine/cusine_cover.png";
+	import background from "$lib/assets/images_vrac/ballon_goodomensfanzine_field.jpg";
+    import zine_image from "$lib/assets/cuisine_zine/cusine_cover.png";
 </script>
 
 <!-- TODO : Change presentation depending on screen size by using the hidden attribute in the same way as for the navbar -->
