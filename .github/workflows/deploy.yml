@@ -22,8 +22,8 @@ jobs:
         run: npm ci
 
       - name: build
-        env:
-          BASE_PATH: '/${{ github.workspace }}' # '/${{ github.event.repository }}'
+        # env:
+        #  BASE_PATH: '/${{ github.workspace }}' # '/${{ github.event.repository }}'
         run: |
           npm run build
 
