@@ -1,7 +1,7 @@
 <!-- Ineffable Cuisine zine -->
 
 <script lang="ts">
-    import zine_image from '$lib/assets/cuisine_zine/cusine_cover_sketch.png';
+    import zine_image from '$lib/assets/cuisine_zine/cusine_cover.png';
 
 </script>
 
