@@ -1,12 +1,43 @@
 <!-- Home -->
 
 <script lang="ts">
+    import { onMount, onDestroy, afterUpdate } from 'svelte';
     import { resolve } from "$app/paths";
 
 	import background from "$lib/assets/images_vrac/ballon_goodomensfanzine_field.jpg";
     import zine_image from "$lib/assets/cuisine_zine/cuisine_cover.png";
 
     // import countdown from "$lib/scripts/countdown.ts";
+    let current_date = new Date().getTime();
+    let end_date = new Date("2026-11-15T00:00:00").getTime();
+    let time_left = end_date - current_date;
+    let days = Math.floor(time_left / (1000 * 60 * 60 * 24));
+    let hours = Math.floor((time_left /  (1000 * 60 * 60))) % 24;
+    let minutes = Math.floor((time_left / (1000 * 60))) % 60;
+    let seconds = Math.floor((time_left / 1000)) % 60;
+    console.log("time left : ", time_left, " days : ", days, " hours : ", hours, " minutes : ", minutes, " seconds : ", seconds);
+
+    function remaningTime() {
+        current_date = new Date().getTime();
+        time_left = end_date - current_date;
+        days = Math.floor(time_left / (1000 * 60 * 60 * 24));
+        hours = Math.floor((time_left /  (1000 * 60 * 60))) % 24;
+        minutes = Math.floor((time_left / (1000 * 60))) % 60;
+        seconds = Math.floor((time_left / 1000)) % 60;
+
+        document.getElementById('days')!.style.setProperty('--value', days.toString());
+        document.getElementById('hours')!.style.setProperty('--value', hours.toString());
+        document.getElementById('min')!.style.setProperty('--value', minutes.toString());
+        document.getElementById('sec')!.style.setProperty('--value', seconds.toString());
+    }
+
+    onMount(() => {
+        setInterval(() => {
+                if(days > 0 || hours > 0 || minutes > 0 || seconds > 0) {
+                    remaningTime();
+                }
+        }, 1000)
+    })
 </script>
 
 <!-- TODO : Change presentation depending on screen size by using the hidden attribute in the same way as for the navbar -->
@@ -24,33 +55,34 @@
                     <h2 class="card-title">Ineffable Cuisine zine</h2>
                     <p>Comming soon.</p>
                     
-                    <!-- <div class="grid auto-cols-max grid-flow-col gap-5 text-center">
+                    <div class="grid auto-cols-max grid-flow-col gap-5 text-center">
                         <div class="flex flex-col">
                             <span class="countdown font-mono text-5xl">
-                            <span style="--value:15;" aria-live="polite" aria-label="15">15</span>
+                            <span id="days" style="--value:{days};" aria-live="polite" >{days}</span>
                             </span>
                             days
                         </div>
                         <div class="flex flex-col">
                             <span class="countdown font-mono text-5xl">
-                            <span style="--value:10;" aria-live="polite" aria-label="10">10</span>
+                            <span id="hours" style="--value:{hours};" aria-live="polite">{hours}</span>
                             </span>
                             hours
                         </div>
                         <div class="flex flex-col">
                             <span class="countdown font-mono text-5xl">
-                            <span style="--value:24;" aria-live="polite" aria-label="24">24</span>
+                            <span id="min" style="--value:{minutes};" aria-live="polite">{minutes}</span>
                             </span>
                             min
                         </div>
                         <div class="flex flex-col">
                             <span class="countdown font-mono text-5xl">
-                            <span style="--value:59;" aria-live="polite" aria-label="59">59</span>
+                            <span id="sec" style="--value:{seconds};" aria-live="polite">{seconds}</span>
                             </span>
                             sec
                         </div>
-                    </div> -->
+                    </div>
 
+                    <!-- TODO : Add a "preorder button next to "learn more" for people that want to get the zine now -->
                     <div class="card-actions justify-center">
                         <a class="btn btn-primary" href="{resolve("/ineffableCuisineZine")}">Learn more</a>
                     </div>
