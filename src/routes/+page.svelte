@@ -7,15 +7,14 @@
 	import background from "$lib/assets/images_vrac/ballon_goodomensfanzine_field.jpg";
     import zine_image from "$lib/assets/cuisine_zine/cuisine_cover.png";
 
-    // import countdown from "$lib/scripts/countdown.ts";
-    let current_date = new Date().getTime();
-    let end_date = new Date("2026-11-15T00:00:00").getTime();
+    // Countdown variables and function
+    let current_date = new Date().getTime(); // Current date UTC in milliseconds
+    let end_date = new Date("2026-11-15T00:00:00").getTime(); // End date UTC in milliseconds
     let time_left = end_date - current_date;
     let days = Math.floor(time_left / (1000 * 60 * 60 * 24));
     let hours = Math.floor((time_left /  (1000 * 60 * 60))) % 24;
     let minutes = Math.floor((time_left / (1000 * 60))) % 60;
     let seconds = Math.floor((time_left / 1000)) % 60;
-    console.log("time left : ", time_left, " days : ", days, " hours : ", hours, " minutes : ", minutes, " seconds : ", seconds);
 
     function remaningTime() {
         current_date = new Date().getTime();

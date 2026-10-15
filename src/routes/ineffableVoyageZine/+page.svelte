@@ -29,7 +29,7 @@
 
     <div class="card w-5/6 lg:w-2/3 md:card-side bg-base-200 shadow-sm">
         <figure>
-            <img
+            <enhanced:img
             src={zine_image}
             alt="Ineffable Voyage zine cover" />
         </figure>
@@ -53,7 +53,7 @@
 
             <div class="card bg-base-200 w-5/6 shadow-sm">
             <figure>
-                <img
+                <enhanced:img
                 src={agrumetendre_avatar}
                 alt="agrume tendre avatar" />
             </figure>
@@ -69,7 +69,7 @@
 
             <div class="card bg-base-200 w-5/6 shadow-sm">
             <figure>
-                <img
+                <enhanced:img
                 src={angellilou_avatar}
                 alt="angellilou avatar" />
             </figure>
@@ -86,7 +86,7 @@
 
             <div class="card bg-base-200 w-5/6 shadow-sm">
             <figure>
-                <img
+                <enhanced:img
                 src={bucky_avatar}
                 alt="bucky avatar" />
             </figure>
@@ -102,7 +102,7 @@
 
             <div class="card bg-base-200 w-5/6 shadow-sm">
             <figure>
-                <img
+                <enhanced:img
                 src={chouly_avatar}
                 alt="chouly avatar" />
             </figure>
@@ -117,7 +117,7 @@
 
             <div class="card bg-base-200 w-5/6 shadow-sm">
             <figure>
-                <img
+                <enhanced:img
                 src={cybi_avatar}
                 alt="cybi avatar" />
             </figure>
@@ -132,7 +132,7 @@
 
             <div class="card bg-base-200 w-5/6 shadow-sm">
             <figure>
-                <img
+                <enhanced:img
                 src={elnora_avatar}
                 alt="elnora avatar" />
             </figure>
@@ -147,7 +147,7 @@
 
             <div class="card bg-base-200 w-5/6 shadow-sm">
             <figure>
-                <img
+                <enhanced:img
                 src={emi_avatar}
                 alt="emi avatar" />
             </figure>
@@ -163,7 +163,7 @@
 
             <div class="card bg-base-200 w-5/6 shadow-sm">
             <figure>
-                <img
+                <enhanced:img
                 src={enelica_avatar}
                 alt="enelica avatar" />
             </figure>
@@ -178,7 +178,7 @@
 
             <div class="card bg-base-200 w-5/6 shadow-sm">
             <figure>
-                <img
+                <enhanced:img
                 src={kaitas_avatar}
                 alt="kaitas avatar" />
             </figure>
@@ -195,7 +195,7 @@
 
             <div class="card bg-base-200 w-5/6 shadow-sm">
             <figure>
-                <img
+                <enhanced:img
                 src={kay_avatar}
                 alt="kay avatar" />
             </figure>
@@ -210,7 +210,7 @@
 
             <div class="card bg-base-200 w-5/6 shadow-sm">
             <figure>
-                <img
+                <enhanced:img
                 src={kimy_avatar}
                 alt="kimy avatar" />
             </figure>
@@ -225,7 +225,7 @@
 
             <div class="card bg-base-200 w-5/6 shadow-sm">
             <figure>
-                <img
+                <enhanced:img
                 src={lambre_avatar}
                 alt="lambre avatar" />
             </figure>
@@ -240,7 +240,7 @@
 
             <div class="card bg-base-200 w-5/6 shadow-sm">
             <figure>
-                <img
+                <enhanced:img
                 src={piki_avatar}
                 alt="piki avatar" />
             </figure>
@@ -256,7 +256,7 @@
 
             <div class="card bg-base-200 w-5/6 shadow-sm">
             <figure>
-                <img
+                <enhanced:img
                 src={tsar_avatar}
                 alt="tsar avatar" />
             </figure>
@@ -273,7 +273,7 @@
 
             <div class="card bg-base-200 w-5/6 shadow-sm">
             <figure>
-                <img
+                <enhanced:img
                 src={zevampirex_avatar}
                 alt="zevampirex avatar" />
             </figure>
