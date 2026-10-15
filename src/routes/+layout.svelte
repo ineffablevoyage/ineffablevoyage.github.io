@@ -2,7 +2,7 @@
  
 <script lang="ts">
 	import { resolve } from '$app/paths';
-	import favicon from '$lib/assets/favicon.svg';
+	import favicon from '$lib/assets/images_vrac/favicon.ico';
 	import "$lib/zine_style.css";
 
 	// const resolved = resolve("/");
