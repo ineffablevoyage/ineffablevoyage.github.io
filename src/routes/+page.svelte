@@ -49,12 +49,12 @@
     <!-- <div class="hero-overlay"></div> -->
     <div class="hero-content text-neutral-content text-center">
 
-            <div class="card md:card-l lg:card-side bg-base-100 shadow-sm max:w-5/6">
-                <div class="card-body">
+            <div class="card md:card-lg md:card-side bg-base-100 shadow-sm max:w-5/6">
+                <div class="card-body items-center text-center">
                     <h2 class="card-title">Ineffable Cuisine zine</h2>
                     <p>Comming soon.</p>
                     
-                    <div class="grid auto-cols-max grid-flow-col gap-5 text-center">
+                    <div class="grid auto-cols-max grid-flow-col gap-5 text-center items-center">
                         <div class="flex flex-col">
                             <span class="countdown font-mono text-5xl">
                             <span id="days" style="--value:{days};" aria-live="polite" >{days}</span>
@@ -88,7 +88,7 @@
                 </div>
                 <div class="hover-3d">
                     <!-- content -->
-                    <figure class="md:w-100">
+                    <figure class="rounded-2xl md:max-w-100">
                         <enhanced:img src={zine_image} alt="fanzine cover" />
                     </figure>
                     <!-- 8 empty divs needed for the 3D effect -->
